@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImtiazShoykat
-- 👀 I’m interested in HTML, CSS, SQL
-- 🌱 I’m currently learning Oracle SQL
-- 💞️ I’m looking to collaborate on HTML project
+- 👀 I’m interested in Database Architect
+- 🌱 I’m currently workign as DBA
+- 💞️ I’m looking to collaborate on Database project
 - 📫 Reach Me on imtiazshoykat@gmail.com
 
 <!---
